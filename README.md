@@ -12,7 +12,7 @@
 
 ## 👋 Sobre mim
 
-- 🎓 6º semestre de **Engenharia de Software** na UCB (Universidade Católica de Brasília)
+- 🎓 7º semestre de **Engenharia de Software** na UCB (Universidade Católica de Brasília)
 - 💼 Full-Stack Developer na **Go Sales Consultoria**
 - 🎯 Buscando oportunidades de **estágio e vaga júnior** em Brasília
 - 🤖 Curto integrar IA em projetos reais (automação, RAG, agentes)
