@@ -49,7 +49,7 @@
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=PedroSobreiraTI&show_icons=true&theme=radical&hide_border=true&bg_color=0B0B16&title_color=22D3EE&icon_color=8B5CF6&text_color=F4F2FF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSobreiraTI&layout=compact&theme=radical&hide_border=true&bg_color=0B0B16&title_color=22D3EE&text_color=F4F2FF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSobreiraTI&layout=compact&langs_count=6&hide=html,css&size_weight=0.5&count_weight=0.5&theme=radical&hide_border=true&bg_color=0B0B16&title_color=22D3EE&text_color=F4F2FF" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroSobreiraTI&theme=radical&hide_border=true&background=0B0B16&ring=8B5CF6&fire=22D3EE&currStreakLabel=22D3EE" />
 
